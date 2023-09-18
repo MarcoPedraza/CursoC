@@ -34,7 +34,7 @@ float agregar, retirar, saldo =3000;
         printf("Cuanto dinero quiere retirar?");
         scanf("%f",&retirar);
 
-        saldo -= retirar;
+        
 
         if (retirar>saldo){
 
@@ -45,14 +45,15 @@ float agregar, retirar, saldo =3000;
             saldo -= retirar;
             printf("Tu saldo total es de %.f",saldo);
         }
-    
+            break;
+
+    case 3: 
+
+        printf("Gracias por usar la aplicacion\nHasta la proxima");
+
     default:
         break;
     }
-
-
-
-
 
     return 0;
 }
