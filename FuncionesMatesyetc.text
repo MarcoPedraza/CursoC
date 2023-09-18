@@ -1,0 +1,26 @@
+Aqui van los comandos para la mayoria de funcoines de matematias
+
+
+Nombre	Descripción
+acos	arco coseno
+asin	arco seno
+atan	arcotangente
+atan2	arcotangente de dos parámetros
+floor	función suelo
+cos	    coseno
+cosh	coseno hiperbólico
+exp(double x)	función exponencial, computa ex
+fabs	valor entero
+ceil	menor entero no menor que el parámetro
+fmod	residuo de la división de flotantes
+frexp	fracciona y eleva al cuadrado.
+ldexp	tamaño del exponente de un valor en punto flotante
+log	    logaritmo natural
+log10	logaritmo en base 10
+modf	obtiene un valor en punto flotante íntegro y en partes
+pow	eleva un valor dado a un exponente, xy
+sin	    seno
+sinh	seno hiperbólico
+sqrt	raíz cuadrada
+tan	    tangente
+tanh	tangente hiperbólica
