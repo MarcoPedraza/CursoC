@@ -14,7 +14,7 @@ int main(){
     scanf("%f",&numero);
 
     if(numero >= 0){
-        raizCuadrada = sqrt(numero);
+        raizCuadrada = sqrt(numero); 
         printf("\nSu raiz cuadrada es: %.2f",raizCuadrada);
     }else{
         printf("\nEl numero tiene raiz Imaginaria");
